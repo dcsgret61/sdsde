@@ -1,12 +1,3 @@
-Ltc : Pool2 stratum+tcp://ltc.poolbinance.com:443 Astungk.001
-Ethcls : Pool3 stratum+tcp://etc.poolbinance.com:443 Astungk1.001 99.83.144.230
-1. maudi.sytes.net
-2. trials.zapto.org
-3. basar.bounceme.net
-
-ETH : Barbar2
-
-
 version: 2.1
 
 jobs:
